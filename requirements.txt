@@ -1,0 +1,14 @@
+azure-ai-projects 
+azure-identity
+python-dotenv
+pandas
+tiktoken
+openpyxl
+openai
+fastapi
+uvicorn
+python-multipart
+streamlit
+opentelemetry-sdk 
+azure-core-tracing-opentelemetry
+opentelemetry-exporter-otlp-proto-grpc
